@@ -5,7 +5,7 @@ It's not that simple there is a *little surprise*. You can play against an ***AI
 
 ## Reward
 The **_first two people_** who can **_beat the AI without changing the source code_** can win **_10$_**.
-Good luck!
+Write me on Discord when you got it (**mert.14**). Good luck!
 
 ## Installation
 The Project is build in Python version 3.12.
